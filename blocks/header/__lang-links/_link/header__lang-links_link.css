@@ -7,5 +7,5 @@
 }
 
 .header__lang-links_link:last-of-type {
-  text-decoration: overline;
+  text-decoration: none;
 }
