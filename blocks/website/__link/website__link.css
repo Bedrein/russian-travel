@@ -1,0 +1,9 @@
+.website__link {
+	margin: 0;
+	max-width: 100%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+	color: inherit;
+	text-decoration-line: underline;
+}
