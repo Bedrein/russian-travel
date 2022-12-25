@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
 	margin: 0;
 	max-width: 100%;
   font-weight: 400;
@@ -6,4 +6,9 @@
   line-height: 22px;
 	color: inherit;
 	text-decoration-line: underline;
+	transition: opacity .3s;
+}
+
+.place__link:hover {
+	opacity: 0.8;
 }
