@@ -31,7 +31,7 @@ box-sizing: border-box;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 555px) {
   .place__item {
 		grid-template-areas:
     "title"
