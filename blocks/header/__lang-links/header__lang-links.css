@@ -1,15 +1,13 @@
 .header__lang-links {
-	margin: 0;
-	display: flex;
-	align-self: center;
-	gap: 18px;
-	padding-top: 18px;
+  margin: 0;
+  display: flex;
+  align-self: center;
+  gap: 18px;
+  padding-top: 18px;
 }
 
-
-
-@media screen and (max-width: 320px) {
-	.header__lang-links {
-		padding-top: 14px;
-	}
+@media screen and (max-width: 425px) {
+  .header__lang-links {
+    padding-top: 14px;
+  }
 }

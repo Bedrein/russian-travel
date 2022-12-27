@@ -1,14 +1,14 @@
 .place__link {
-	margin: 0;
-	max-width: 100%;
+  margin: 0;
+  max-width: 100%;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-	color: inherit;
-	text-decoration-line: underline;
-	transition: opacity .3s;
+  color: inherit;
+  text-decoration-line: underline;
+  transition: opacity 0.3s;
 }
 
 .place__link:hover {
-	opacity: 0.8;
+  opacity: 0.8;
 }
