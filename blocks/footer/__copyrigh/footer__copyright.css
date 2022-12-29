@@ -1,4 +1,4 @@
-.footer__copyrigh {
+.footer__copyright {
   margin: 0;
   font-weight: 400;
   font-size: 14px;
@@ -6,9 +6,7 @@
 }
 
 @media screen and (max-width: 630px) {
-  .footer__copyrigh {
-    font-weight: 400;
-    font-size: 14px;
+  .footer__copyright {
     line-height: 14px;
   }
 }
